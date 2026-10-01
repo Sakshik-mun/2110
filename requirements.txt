@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic[email]
+python-dotenv
+google-generativeai
+passlib
+python-jose
+httpx
+pytest
